@@ -8,7 +8,7 @@
 **Which input device (e.g. MacBook Trackad, Magic Mouse, Magic Trackpad Touch Bar) is affected by this?**
 
 
-**Which version of macOS are you running?**
+**Which versions of macOS and BetterTouchTool are you running?**
 
 
 **Other information:** (e.g. stacktraces, related issues, screenshots,suggestions how to fix, etc)
