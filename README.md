@@ -1,7 +1,8 @@
 # BetterTouchTool
 This contains the BetterTouchTool documentation and issue tracking for BetterTouchTool (https://boastr.net).
 
-###Please post any bug, feature request, idea or even question (with the appropriate tag) in the Issues section https://github.com/fifafu/BetterTouchTool/issues. Include as much system information as possible :-)
+* Please post any bug, feature request, idea or even question (with the appropriate tag) in the Issues section https://github.com/fifafu/BetterTouchTool/issues.
+* I'm marking some issues as FAQ/ Knowledge base, they might be interesting for everybody: https://github.com/fifafu/BetterTouchTool/issues?q=is%3Aopen+is%3Aissue+label%3A%22%E2%9C%B3%EF%B8%8F+Knowledge+Base+%2F+FAQ%22
 
 For non-public issues please contact me by mail (boastr.net@gmail.com)
 
