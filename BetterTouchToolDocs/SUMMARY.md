@@ -18,6 +18,11 @@
     * [Adding custom Key Sequence triggers](./docs/key_sequences.md)
     * [Sending shortcuts to specific apps](./docs/sending_shortcuts_to_specific.md)
 * [Touch Bar](./docs/touch_bar.md)
+    * [Touch Bar Basics](./docs/touch_bar_basics.md)
+    * [Touch Bar Widgets](./docs/touch_bar_widgets.md)
+    * [Touch Bar Groups](./docs/touch_bar_groups.md)
+    * [Touch Bar Advanced Configuration](./docs/touch_bar_advanced.md)
+
 * [BTT Remote](./docs/bttremote.md)
 * [Magic Mouse](./docs/magic_mouse.md)
 * [Trackpad](./docs/trackpad.md)
