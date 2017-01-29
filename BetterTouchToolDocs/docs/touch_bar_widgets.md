@@ -1,47 +1,42 @@
-# Touch Bar
-BetterTouchTool let's you customize your Touch Bar for any app you have installed.
+# Touch Bar Widgets
+BetterTouchTool includes some widgets you can display on your Touch Bar.
 
-**Note: this is still very new, please expect bugs and report them! Also I can not guarantee it will work in the future as it is not officially supported by the system.**
+**Hint:** It is often useful to put the widgets inside a Touch Bar Group
+## Remaining Battery Widgets
+This Widget allows you to view the estimated remaining time your Macbook Pro can run on the current battery charge.
+![appswitcher](media/tb15.png)
 
-![tb_setup](media/tb_screenshots/touchbar_1.png)
+## Date / Time Widget
+Shows the current date/time in any format you want.
+![appswitcher](media/tb12.png)
+![appswitcher](media/tb14.png)
 
+## App Switcher Widgets
+Allows you to switch through your recent applications (like pressing cmd+tab)
+![appswitcher](media/tb11.png)
+![appswitcher](media/tb16.png)
 
-## Known Limitations
-* When hiding the Touch Bar with the x button on the left, it will require tapping the BTT icon in the Control Strip twice to get it back.
+## Volume Slider
+Adjust the Mac speaker volume using a slider
+![appswitcher](media/tb17.png)
 
-## Adding New TouchBar Buttons
+## Brightness Slider
+Adjust the Mac's brightness using a slider. 
 
-* Decide whether you want to show your Touch Bar button globally or just for one specific application. Select accordingly in the application list on the very left of the BTT Preferences.
-* Click the "Add TouchBar" button in the TouchBar tab
-* Enter a name (that's required for it to show up in the Touch Bar)
-* Assign any action or shortcut you want.
+**If you press ctrl while sliding it will change the brightness of your external monitors**
 
-![tb_add](media/tb_screenshots/touchbar_2.png)
+![appswitcher](media/tb18.png)
 
+## Apple Script Widget
+Allows you to run aribtrary Apple Script in a customizable time interval and display the result in the Touch Bar.
 
-## Customizing the Touch Bar Button Appearance
+This is a very powerful widget, one example is the ability to show the currently playing Spotify Song (see [https://github.com/fifafu/BetterTouchTool/issues/308](https://github.com/fifafu/BetterTouchTool/issues/308))
+![appswitcher](media/tb20.png)
+![appswitcher](media/tb21.png)
 
-* To customize the appearance of the configured Touch Bar buttons, click the little gear icon.
+## Emoji Widget
+Allows you to insert emoticons from your Touch Bar in any app. 
 
-![tb_appearance](media/tb_screenshots/touchbar_4.png)
-
-* You can also add icons to your Touch Bar buttons. Just drag your own icons onto the "Add Icon" area, or click that area and choose one of the provided icons and drag it onto the area.
-
-![tb_icons](media/tb_screenshots/touchbar_6.png)
-
-
-
-
-## General Settings
-
-* You can decide if you want to show the Control Strip on the right side of the Touch Bar, or if you want to have more space available for your buttons and don't show it. (Hint: you can configure your Control Strip in System Preferences => Keyboard => Customize Control Strip)
-* You can decide whether to show the BetterTouchTool icon in the Control Strip. (If you don't show it, you have to use the predefined action "Toggle BetterTouchTool Touch Bar" to show or hide the BTT Touch Bar.)
-* You can decide whether you want to Show the global actions also if app-specific actions are available. Hint: by long pressing the BTT icon you can force it to only show the global actions regardless of this setting.
-
-
-![tb_icons](media/tb_screenshots/touchbar_3.png)
-
-## App Specific Configuration
-* For any app you can choose whether you want to show the BTT Touch Bar or rather show the app's default bar.
-
-![tb_icons](media/tb_screenshots/touchbar_7.png)
+Switch between the different groups of emoji using the arrow buttons.
+The first group that is shown displays the most recently used emoji.
+![appswitcher](media/tb22.png)
