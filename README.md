@@ -3,6 +3,7 @@ This contains the BetterTouchTool documentation and issue tracking for BetterTou
 
 * Please post any bug, feature request, idea or even question (with the appropriate tag) in the Issues section https://github.com/fifafu/BetterTouchTool/issues.
 * I'm marking some issues as FAQ/ Knowledge base, they might be interesting for everybody: https://github.com/fifafu/BetterTouchTool/issues?q=is%3Aissue+label%3A%22%E2%9C%B3%EF%B8%8F+Knowledge+Base+%2F+FAQ%22
+* The current BetterTouchTool release notes can always be found here: https://updates.bettertouchtool.net/bettertouchtool_release_notes.html
 
 For non-public issues please contact me by mail (boastr.net@gmail.com)
 
