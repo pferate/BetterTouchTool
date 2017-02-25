@@ -1,10 +1,10 @@
 # Window Snapping
 
-Window snapping is a very powerful feature in BetterTouchTool. It allows you to easily arrange windows on your Mac by, for example, using your mouse, trackpad gestures, or keyboard shortcuts.
+Window snapping is a very powerful feature in BetterTouchTool. It allows you to easily arrange windows on your Mac by, for example, using your mouse, trackpad gestures, or keyboard shortcuts. For a quick introduction, watch the video below:
 
 <video width="100%" controls style="margin-bottom:20px; max-width:1200px">
   <source src="media/windowsnapping.mp4" type="video/mp4">
-Your browser does not support the video playback.
+Oops, your browser does not support the playback of this video.
 </video>
 
 # Basic Window Snapping Setup
