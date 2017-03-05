@@ -2,24 +2,19 @@
 
 ---
 
-
-#### Description of bug/question/feature request:
-
-
-
-#### What kind of Mac are you using?
+#### Description of bug/feature request/question:
 
 
 
-#### Input device affected (e.g. MacBook Trackpad, Magic Mouse/Trackpad, Touch Bar):
+#### Affected input device (e.g. MacBook Trackpad, Magic Mouse/Trackpad, Touch Bar, etc.):
 
 
 
-#### BetterTouchTool and macOS version:
+#### Device information:
 
-macOS 10.
-
-BetterTouchTool v
+Type of Mac:
+macOS version: 
+BetterTouchTool version: 
 
 #### Additional information (e.g. StackTraces, related issues, screenshots, workarounds, etc.):
 
