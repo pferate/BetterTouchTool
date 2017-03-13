@@ -1,4 +1,5 @@
 # BetterTouchTool
+
 This contains the BetterTouchTool documentation and issue tracking for [BetterTouchTool](https://boastr.net).
 
 * Please post any bugs, feature requests, ideas or even questions (with the appropriate tags) in the [issues section](https://github.com/fifafu/BetterTouchTool/issues).
@@ -7,10 +8,12 @@ This contains the BetterTouchTool documentation and issue tracking for [BetterTo
 
 For non-public issues, please contact me by [mail](boastr.net@gmail.com).
 
-## BetterTouchTool Documentation (http://docs.bettertouchtool.com/)
-Merge requests on the BetterTouchTool documentation are always very welcome.
+## BetterTouchTool Documentation
+
+The BetterTouchTool documentation can be found [here](http://docs.bettertouchtool.com/). Pull requests on the BetterTouchTool documentation (which is hosted on this repo) are always very welcome.
 
 To build the BetterTouchTool Documentation follow these steps:
+
 * Install Node.js (I recommend to use [nvm](https://github.com/creationix/nvm) to install Node. Current long term support version of Node.js is v6.9.1).
 * Run ``npm install -g gitbook-cli``
 * cd into the BetterTouchToolDocs directory and run ``node yarn-0.17.10.js install``
